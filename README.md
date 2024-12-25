@@ -46,7 +46,7 @@ An advanced installation and management script for Paymenter, featuring automate
 
 1. **Download the script**:
 ```bash
-curl -o paymenter-manager.sh https://raw.githubusercontent.com/yourusername/paymenter-manager/main/paymenter-manager.sh
+curl -o paymenter-manager.sh https://raw.githubusercontent.com/ckyuri/Paymenter-Install-Script/refs/heads/main/paymenter-manager.sh
 ```
 
 2. **Make it executable**:
